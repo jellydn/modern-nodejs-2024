@@ -1,0 +1,11 @@
+{
+  "name": "modern-nodejs-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "1.7.3",
+    "@types/node": "^20.5.8"
+  }
+}
