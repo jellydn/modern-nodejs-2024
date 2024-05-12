@@ -11,9 +11,6 @@ importers:
       '@biomejs/biome':
         specifier: 1.7.3
         version: 1.7.3
-      '@types/node':
-        specifier: 20.5.8
-        version: 20.5.8
 
 packages:
 
@@ -70,9 +67,6 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@types/node@20.5.8':
-    resolution: {integrity: sha512-eajsR9aeljqNhK028VG0Wuw+OaY5LLxYmxeoXynIoE6jannr9/Ucd1LL0hSSoafk5LTYG+FfqsyGt81Q6Zkybw==}
-
 snapshots:
 
   '@biomejs/biome@1.7.3':
@@ -109,5 +103,3 @@ snapshots:
 
   '@biomejs/cli-win32-x64@1.7.3':
     optional: true
-
-  '@types/node@20.5.8': {}
