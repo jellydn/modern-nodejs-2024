@@ -3,6 +3,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+[![ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/hqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
+
 ## Table of Contents
   - [Installation](#installation)
   - [Features](#features)
@@ -86,6 +88,10 @@ node --experimental-require-module index.cjs
 ## Resources and Examples
 
 Please check the [`examples`](./examples/) folder for more detail and references resources.
+
+Other resources:
+ - [What's new in Node js v22](https://youtu.be/eZfLkVDJPTg)
+ - [NodeJs can do WHAT now?](https://youtube.com/shorts/J3W3s5O9wAs)
 
 ## Author
 
