@@ -69,7 +69,7 @@ node --run start
 
 ```sh
 cd examples/permission-model
-node --experimental-permission index.mjs
+node --experimental-permission index.js
 ```
 
 [![experimental-permission with NodeJs 22](https://i.gyazo.com/908b473c571103b7aecba6725c0025cb.gif)](https://gyazo.com/908b473c571103b7aecba6725c0025cb)

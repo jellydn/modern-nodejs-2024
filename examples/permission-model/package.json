@@ -1,8 +1,6 @@
 {
 	"private": true,
-	"scripts": {
-		"start": "node server.mjs"
-	},
+	"type": "module",
 	"engines": {
 		"node": ">=22.1.0"
 	}
