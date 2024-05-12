@@ -6,7 +6,8 @@
 [![ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/hqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
 
 ## Table of Contents
-  - [Installation](#installation)
+  - [Pre-requisites](#pre-requisites)
+  - [Usage](#usage)
   - [Features](#features)
     - [Node Fetch Without Polyfill](#node-fetch-without-polyfill)
     - [Read .env File Natively](#read-env-file-natively)
@@ -19,6 +20,10 @@
   - [Show your support](#show-your-support)
   - [📝 License](#📝-license)
 
+## Pre-requisites
+
+- [Schniz/fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm) or any similar Node.js version manager.
+- [pnpm: Fast, disk space efficient package manager](https://pnpm.io/)
 
 ## Usage
 
