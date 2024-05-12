@@ -1,5 +1,9 @@
-jellydn
+productsway
 biomejs
+Schniz
+Huynh
+kofi
+buymeacoffee
+automerge
 tsbuildinfo
 codepaths
-productsway

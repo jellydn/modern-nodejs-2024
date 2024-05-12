@@ -102,7 +102,7 @@ Other resources:
 
 👤 **Dung Huynh Duc <dung@productsway.com>**
 
--   Github: [@jelydn](https://github.com/jelydn)
+-   Github: [@jellydn](https://github.com/jellydn)
 
 ## Show your support
 
@@ -114,6 +114,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2024 [Dung Huynh Duc <dung@productsway.com>](https://github.com/jelydn).<br />
-This project is [MIT](https://github.com/jelydn/modern-nodejs-2024/blob/master/LICENSE) licensed.
+Copyright © 2024 [Dung Huynh Duc <dung@productsway.com>](https://github.com/jellydn).<br />
+This project is [MIT](https://github.com/jellydn/modern-nodejs-2024/blob/master/LICENSE) licensed.
 
