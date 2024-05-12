@@ -1,6 +1,6 @@
+import assert from "node:assert";
 // Usage: node --test
 import { describe, it } from "node:test";
-import assert from "node:assert";
 
 import { validateEmail } from "../index.js";
 

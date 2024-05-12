@@ -1,24 +1,26 @@
 # Welcome to modern-nodejs-2024 👋
-> Modern Node.js 2024 setup is a comprehensive guide to the latest features and capabilities of Node.js 18+. This setup includes built-in support for fetch, native `.env` file reading, and simplified testing with `node:test`. It also introduces the permission model, task runner with `node --run`, and importing ESM modules from CJS. 
+
+> Modern Node.js 2024 setup is a comprehensive guide to the latest features and capabilities of Node.js 18+. This setup includes built-in support for fetch, native `.env` file reading, and simplified testing with `node:test`. It also introduces the permission model, task runner with `node --run`, and importing ESM modules from CJS.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 [![ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/hqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
 
 ## Table of Contents
-  - [Pre-requisites](#pre-requisites)
-  - [Usage](#usage)
-  - [Features](#features)
-    - [Node Fetch Without Polyfill](#node-fetch-without-polyfill)
-    - [Read .env File Natively](#read-env-file-natively)
-    - [Testing with `node:test`](#testing-with-nodetest)
-    - [Task runner with `node --run`](#task-runner-with-node-run)
-    - [Permission model](#permission-model)
-    - [Import ESM modules from CJS](#import-esm-modules-from-cjs)
-  - [Resources and Examples](#resources-and-examples)
-  - [Author](#author)
-  - [Show your support](#show-your-support)
-  - [📝 License](#📝-license)
+
+- [Pre-requisites](#pre-requisites)
+- [Usage](#usage)
+- [Features](#features)
+  - [Node Fetch Without Polyfill](#node-fetch-without-polyfill)
+  - [Read .env File Natively](#read-env-file-natively)
+  - [Testing with `node:test`](#testing-with-nodetest)
+  - [Task runner with `node --run`](#task-runner-with-node-run)
+  - [Permission model](#permission-model)
+  - [Import ESM modules from CJS](#import-esm-modules-from-cjs)
+- [Resources and Examples](#resources-and-examples)
+- [Author](#author)
+- [Show your support](#show-your-support)
+- [📝 License](#📝-license)
 
 ## Pre-requisites
 
@@ -32,6 +34,7 @@ pnpm install
 ```
 
 ## Features
+
 ### Node Fetch Without Polyfill
 
 ```sh
@@ -40,7 +43,6 @@ node index.js
 ```
 
 [![Node Fetch built-in in NodeJs 18](https://i.gyazo.com/4aedf45ff0747307dd231c4940711cbd.gif)](https://gyazo.com/4aedf45ff0747307dd231c4940711cbd)
-
 
 ### Read .env File Natively
 
@@ -72,6 +74,7 @@ node --run start
 ```
 
 [![Task runner with NodeJs 22](https://i.gyazo.com/9f95d9e7399bab3bb9422c051f89defc.gif)](https://gyazo.com/9f95d9e7399bab3bb9422c051f89defc)
+
 ### Permission model
 
 ```sh
@@ -95,14 +98,15 @@ node --experimental-require-module index.cjs
 Please check the [`examples`](./examples/) folder for more detail and references resources.
 
 Other resources:
- - [What's new in Node js v22](https://youtu.be/eZfLkVDJPTg)
- - [NodeJs can do WHAT now?](https://youtube.com/shorts/J3W3s5O9wAs)
+
+- [What's new in Node js v22](https://youtu.be/eZfLkVDJPTg)
+- [NodeJs can do WHAT now?](https://youtube.com/shorts/J3W3s5O9wAs)
 
 ## Author
 
 👤 **Dung Huynh Duc <dung@productsway.com>**
 
--   Github: [@jellydn](https://github.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
 
 ## Show your support
 
@@ -116,4 +120,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2024 [Dung Huynh Duc <dung@productsway.com>](https://github.com/jellydn).<br />
 This project is [MIT](https://github.com/jellydn/modern-nodejs-2024/blob/master/LICENSE) licensed.
-
