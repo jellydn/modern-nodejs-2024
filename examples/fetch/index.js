@@ -1,4 +1,10 @@
 // This is example for fetch built-in function in NodeJS 18
+// Usage: node index.js
+
+/**
+ * Returns random dog image
+ * @returns {Promise<{message: string; status: string}>} Promise object represents the dog image
+ */
 async function fetchDogImage() {
 	const response = await fetch("https://dog.ceo/api/breeds/image/random");
 	const dog = await response.json();
