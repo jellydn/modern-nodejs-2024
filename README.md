@@ -102,6 +102,14 @@ Other resources:
 - [What's new in Node js v22](https://youtu.be/eZfLkVDJPTg)
 - [NodeJs can do WHAT now?](https://youtube.com/shorts/J3W3s5O9wAs)
 
+## Pre-commit
+
+This project uses [pre-commit](https://pre-commit.com/) to enforce code quality. Please install it before committing.
+
+```bash
+pre-commit install
+```
+
 ## Author
 
 👤 **Dung Huynh Duc <dung@productsway.com>**
