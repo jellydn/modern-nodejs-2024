@@ -1,6 +1,6 @@
 # Welcome to modern-nodejs-2024 👋
 
-> Modern Node.js 2024 setup is a comprehensive guide to the latest features and capabilities of Node.js 18+. This setup includes built-in support for fetch, native `.env` file reading, and simplified testing with `node:test`. It also introduces the permission model, task runner with `node --run`, and importing ESM modules from CJS.
+> Modern Node.js 2024 demo is a comprehensive guide to the latest features and capabilities of Node.js 18 to Nodejs 22. This demo includes built-in support for fetch, native `.env` file reading, and simplified testing with `node:test`. It also introduces the permission model, task runner with `node --run`, and importing ESM modules from CJS.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -35,7 +35,10 @@ pnpm install
 
 ## Features
 
-### Node Fetch Without Polyfill
+### Node Fetch Built-in
+
+> [!NOTE]
+> NodeJs 18
 
 ```sh
 cd examples/fetch
@@ -45,6 +48,9 @@ node index.js
 [![Node Fetch built-in in NodeJs 18](https://i.gyazo.com/4aedf45ff0747307dd231c4940711cbd.gif)](https://gyazo.com/4aedf45ff0747307dd231c4940711cbd)
 
 ### Read .env File Natively
+
+> [!NOTE]
+> NodeJs 20
 
 Seamless `.env` file support right out of the box.
 
@@ -57,6 +63,9 @@ node --env-file=.env.local index.js
 
 ### Testing with `node:test`
 
+> [!NOTE]
+> NodeJs 20
+
 Perform simplified testing with the native `node:test` library.
 
 ```sh
@@ -68,6 +77,9 @@ node --test
 
 ### Task runner with `node --run`
 
+> [!NOTE]
+> NodeJs 22
+
 ```sh
 cd examples/task-runner
 node --run start
@@ -77,6 +89,9 @@ node --run start
 
 ### Permission model
 
+> [!NOTE]
+> NodeJs 22 - Experimental Feature
+
 ```sh
 cd examples/permission-model
 node --experimental-permission index.js
@@ -85,6 +100,9 @@ node --experimental-permission index.js
 [![experimental-permission with NodeJs 22](https://i.gyazo.com/908b473c571103b7aecba6725c0025cb.gif)](https://gyazo.com/908b473c571103b7aecba6725c0025cb)
 
 ### Import ESM modules from CJS
+
+> [!NOTE]
+> NodeJs 22 - Experimental Feature
 
 ```sh
 cd examples/import-esm
