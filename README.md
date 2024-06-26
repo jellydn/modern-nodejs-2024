@@ -121,7 +121,7 @@ Other resources:
 - [NodeJs can do WHAT now?](https://youtube.com/shorts/J3W3s5O9wAs)
 - [Node.js Test Runner: A Beginner's Guide](https://betterstack.com/community/guides/testing/nodejs-test-runner/)
 - [10 modern Node.js runtime features to start using in 2024](https://snyk.io/blog/10-modern-node-js-runtime-features/)
-
+- [Node.js is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
 ## Pre-commit
 
 This project uses [pre-commit](https://pre-commit.com/) to enforce code quality. Please install it before committing.
